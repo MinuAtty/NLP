@@ -1,0 +1,11 @@
+customer_id	chat_date		   message_text	
+101	        1/10/2024    9:00:00	   """I'm having trouble logging into my account, please help me."""	
+102	        2/4/2024     9:15:00	   """How do I change my password? I forgot the old one."""	
+103	        4/10/2024    9:30:00	   """Can I return a product that I bought last week? It's defective."""	
+104	        5/20/2024    9:45:00	   """When will my order be shipped? I haven't received any updates."""	
+105	        6/8/2024     10:00:00	   """I need to update my shipping address for my recent order."""	
+106	        6/20/2024    10:15:00	   """Is it possible to get a refund on a defective item I bought a month ago?"""
+107	        7/15/2024    10:30:00	   """My credit card was charged incorrectly. Can you assist with that?"""	
+108	        8/18/2024    10:45:00	   """I was charged twice for the same order. Please check it."""	
+109	        10/5/2024    11:00:00	   """Do you have any new deals or discounts for the upcoming holiday season?"""
+110	        11/10/2024   11:15:00	   """Can you explain the warranty policy on your electronics products?"""	
