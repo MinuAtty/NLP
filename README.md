@@ -2,7 +2,7 @@
 
 Natural Language Processing (NLP) is a field of artificial intelligence (AI) that focuses on the interaction between computers and humans using natural language. It enables machines to understand, interpret, and generate human language in a meaningful way. NLP is a critical component in many modern AI applications, including chatbots, language translation, sentiment analysis, and text summarization.
 
-<br>
+<br> 
 
 ## Common NLP Techniques
 - **Tokenization**: Splitting text into words or subwords.
